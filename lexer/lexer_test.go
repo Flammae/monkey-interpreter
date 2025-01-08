@@ -5,4 +5,5 @@ import (
 )
 
 func TestNextToken(t *testing.T) {
+
 }
